@@ -1,0 +1,74 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+#Nav{
+    
+    background-color: aqua;
+    border: 2px solid black;
+    
+    
+}
+
+#sub{
+    background-color:black;
+    border:3px solid cyan ;
+    color:white;
+  
+    width: 100vw;
+    height: 50vh;
+}
+#Aboutme{
+    position: relative;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#text{
+    padding-left: 450px;
+    padding-bottom: 800px;
+   
+}
+#img1{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    
+    border: cyan;
+    height: 45vh;
+    width: 30vw;
+    
+}
+#second{
+    background-color: black;
+    border:2px solid palevioletred;
+   
+}
+
+#Project{
+    margin-bottom: 20px;
+}
+
+#title{
+    background-color:aqua;
+    height: 10vh;
+    font-size: 2.5rem;
+
+}
+.card-body{
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    
+}
+#dropdown{
+    background-color: aqua;
+    color:black;
+    font-size: 2.0rem;
+}
+.nav-link{
+
+    color:Black;
+    font-size: 1.5rem;
+}
+
+
+
